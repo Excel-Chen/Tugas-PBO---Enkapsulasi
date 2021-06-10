@@ -80,7 +80,7 @@ public class MainBangunRuang {
                 System.out.println("Volume Balok : " + bal.VolBalok() + " cm^3");
                 System.out.println("============================================");
             }
-            // p == 3 , Exit
+            // p == 4 , Exit
             else if (p == 4) {
                 System.out.println("Exit Program");
                 System.exit(0);
